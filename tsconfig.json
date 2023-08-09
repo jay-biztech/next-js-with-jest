@@ -21,6 +21,6 @@
       "@/styles/*": ["styles/*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "types.d.ts"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "types.d.ts", "pages/api/posts/index.js", "__tests__/index.test.jsx", "pages/index.jsx"],
   "exclude": ["node_modules"]
 }
